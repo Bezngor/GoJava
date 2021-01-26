@@ -1,5 +1,7 @@
 package main.java.com.Vladimir_Beznossov.javacore.chapter18;
 
+// Продемонстрировать применение класса ArrayList
+
 import java.util.ArrayList;
 
 public class ArrayListDemo {
